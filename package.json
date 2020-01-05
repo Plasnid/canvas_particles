@@ -1,0 +1,24 @@
+{
+  "name": "canvas_particles",
+  "version": "1.0.0",
+  "description": "particle effects with canvas in vanilla js",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plasnid/canvas_particles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plasnid/canvas_particles/issues"
+  },
+  "homepage": "https://github.com/Plasnid/canvas_particles#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
