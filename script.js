@@ -5,7 +5,7 @@
  * https://onlinepngtools.com/convert-png-to-base64
  * 
  */
-const canvas = document.getElementById("canvas1");
+const canvas = document.querySelector("#canvas1");
 const ctx = canvas.getContext("2d");
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
